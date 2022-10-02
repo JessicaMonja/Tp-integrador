@@ -1,0 +1,36 @@
+.navbar-nav {
+padding-left: 30%; 
+}
+
+.texto{
+    
+    position:  relative absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%; 
+    margin: 1%;  
+    
+}
+.card-img{
+ filter: brightness(50%);   
+}
+.card-text{
+    
+    color: white;
+}
+.oradores{
+    text-align: center;
+    margin: 2%;
+}
+footer{
+    padding: 0;
+    justify-content: center;
+}
+
+.d-grid button {
+    background-color: yellowgreen;
+}
